@@ -1,0 +1,13 @@
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\win32\Debug\Out\xsensdeviceapi32.dll
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\win32\Debug\Out\xsensdeviceapi_csharp32.dll
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\win32\Debug\Out\xstypes32.dll
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\win32\Debug\Out\dll_example_mtix_mk4_32.exe
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\win32\Debug\Out\dll_example_mtix_mk4_32.pdb
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x86\Debug\dll_example_mtix_mk4_32.csprojResolveAssemblyReference.cache
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x86\Debug\MTixExample.Form1.resources
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x86\Debug\dll_example_mtix_mk4_32.Properties.Resources.resources
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x86\Debug\dll_example_mtix_mk4_32.csproj.GenerateResource.Cache
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x86\Debug\dll_example_mtix_mk4_32.exe
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x86\Debug\dll_example_mtix_mk4_32.pdb
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\obj\x86\Debug\dll_example_mtix_mk4_32.exe
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\obj\x86\Debug\dll_example_mtix_mk4_32.pdb

@@ -1,0 +1,54 @@
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\xsensdeviceapi64.dll
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\xsensdeviceapi_csharp64.dll
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\xstypes64.dll
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\dll_example_mtw_64.exe
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\dll_example_mtw_64.pdb
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\mscorlib.dll
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\zh-CHS\mscorlib.resources.dll
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\sortkey.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\sorttbls.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\big5.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\bopomofo.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\ksc.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\prc.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\prcp.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\xjis.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\normidna.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\normnfc.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\normnfd.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\normnfkc.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\x64\Debug\Out\normnfkd.nlp
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x64\Debug\dll_example_mtw_64.csprojResolveAssemblyReference.cache
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x64\Debug\MTwExample.Form1.resources
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x64\Debug\dll_example_mtw_64.Properties.Resources.resources
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x64\Debug\dll_example_mtw_64.csproj.GenerateResource.Cache
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x64\Debug\dll_example_mtw_64.exe
+C:\Program Files\Xsens\MT Software Suite 4.3\MT SDK 4.3\Examples\dll_csharp\obj\x64\Debug\dll_example_mtw_64.pdb
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\obj\x64\Debug\dll_example_mtw_64.exe
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\obj\x64\Debug\dll_example_mtw_64.pdb
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\xsensdeviceapi64.dll
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\xsensdeviceapi_csharp64.dll
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\xstypes64.dll
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\dll_example_mtw_64.exe
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\dll_example_mtw_64.pdb
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\mscorlib.dll
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\zh-CHS\mscorlib.resources.dll
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\sortkey.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\sorttbls.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\big5.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\bopomofo.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\ksc.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\prc.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\prcp.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\xjis.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\normidna.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\normnfc.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\normnfd.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\normnfkc.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\x64\Debug\Out\normnfkd.nlp
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\obj\x64\Debug\dll_example_mtw_64.csprojResolveAssemblyReference.cache
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\obj\x64\Debug\MTwExample.Form1.resources
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\obj\x64\Debug\dll_example_mtw_64.Properties.Resources.resources
+E:\个人项目\正在进行产品开发\3姿态传感器\dll_csharp\obj\x64\Debug\dll_example_mtw_64.csproj.GenerateResource.Cache
+E:\个人项目\正在进行产品开发\3姿态传感器\MTW_20180525_A_Example\obj\x64\Debug\dll_example_mtw_64.exe
+E:\个人项目\正在进行产品开发\3姿态传感器\MTW_20180525_A_Example\obj\x64\Debug\dll_example_mtw_64.pdb
